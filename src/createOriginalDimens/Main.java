@@ -1,6 +1,6 @@
 package createOriginalDimens;
 /**
- * sizeX, sizeY填入最大使用的dp数值<br>
+ * sizeX, sizeY填入最大使用的DIP数值<br>
  */
 public class Main {
 
